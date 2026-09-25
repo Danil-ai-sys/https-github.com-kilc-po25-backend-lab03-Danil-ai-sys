@@ -1,3 +1,7 @@
+Name: Sobar Danil 
+Group: PO 25-Z 
+Date: 25.09.26
+
 import json
 import os
 from dataclasses import dataclass
