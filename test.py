@@ -1,3 +1,7 @@
+Name: Sobar Danil 
+Group: PO 25-Z 
+Date: 25.09.26
+
 from fastapi.testclient import TestClient
 from main import app
 
